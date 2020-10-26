@@ -1,2 +1,2 @@
-# draggable-element-JS-component
+# <draggable-element>
 Custom HTML element that you can drag😁
